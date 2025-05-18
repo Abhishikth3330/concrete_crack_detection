@@ -21,7 +21,9 @@ The model is deployed using **Gradio** as a user-friendly web interface.
 - Source: `Concrete Crack Images for Classification` from Kaggle or other datasets.
 - Structure:
 data/raw/
+
 ├── Positive/ (cracked images)
+
 └── Negative/ (non-cracked images)
 
 
